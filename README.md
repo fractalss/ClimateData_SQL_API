@@ -1,6 +1,6 @@
 # Surfs Up!
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
+![surfs-up.peg](Images/surfs-up.jpeg)
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
@@ -54,7 +54,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 - - -
 
-## REQUIRED: Step 2 - Climate App
+##  Step 2 - Climate App
 
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 
@@ -100,7 +100,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 - - -
 
-### Optional: Other Recommended Analyses
+### OOther  Analyses
 
 * The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
 
@@ -134,6 +134,4 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   ![daily-normals](Images/daily-normals.png)
 
-## Copyright
 
-Data Boot Camp ©2019. All Rights Reserved.
